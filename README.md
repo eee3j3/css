@@ -48,7 +48,7 @@
            border:2px solid gray;
            font-size:15px;
          }
-         @media(max-width:500px) {
+         @media(max-width:10000px) {
            div{
              display:none;
            }
