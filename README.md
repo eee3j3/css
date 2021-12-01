@@ -64,7 +64,7 @@
  </div>
   <h2><font color="orange">1.HTML 정보 포트폴리오-1학기</font></h2>
   <h4>GITUB포트폴리오 바로가기 :</h4>
-  <h4><a href="https://eee3j3.github.io/HTML/"style="color:gray;text-decoration:underline">HTML</a></h4>
+  <h4><a href="https://eee3j3.github.io/HTML/"style ="color:gray;text-decoration:underline">HTML</a></h4>
   <h2><font color="orange">2.CSS 정보 포트폴리오-2학기</font></h2>
   <br><h5><a href="1.html" class="saw">1차시</a></h5>
   <img src="PRO.jpg" width="15%">
